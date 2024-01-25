@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.head{
+    background: #073449b6; 
+}
+h1{
+    text-align: center;
+}
+.head h3{
+    position: relative;
+    color: #c0b39a;
+    text-align: center;
+    height: 50px;
+    padding-top: 25px;
+    font-size: 20px;
+}
+table.main{
+	width: 100%;
+	border-spacing:0;
+	height: auto;
+}
+
+table.main,table.main td, table.main th {
+	border: 1px solid black;
+}
+
+table.main td,table.main th {
+	padding: 3px;
+	width: 30px;
+	height: 35px;
+}
+
+table.main th {
+	background: #347c99; 
+	color: #fff; 
+	font-weight: normal;
+}
+table{
+    font-size: 20px;
+}
+button{
+    height: 40px;
+    width: 200px;
+    display: block;
+    font-size: 20px;
+    background: #949494;
+    margin: 0 auto;
+    color: black;
+    letter-spacing: 2px;
+}
